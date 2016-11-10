@@ -1,3 +1,4 @@
-# Test
+# solar_project
+Модель Солнечной системы на языке Python
 
-it's a test project!
+This week will be nice, my dear friend!
